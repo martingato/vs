@@ -4,7 +4,9 @@ h1 {
     color: red;
 }
 
-p {}
+p {
+    color: green($color: #000000);
+}
 
 p {
     color: green;
